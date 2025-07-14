@@ -32,11 +32,15 @@ POS Tag Analysis
 Punctuation Distribution
 Token Counts and Diversity
 Transformer Embeddings (via Hugging Face)
+
+
 📈 Model Results Summary
 Model	Accuracy	Precision	Recall	F1 Score
 Logistic Regression + Features	~87%	High	Moderate	Good
 Fine-tuned BERT	~93%	High	High	High
 Ensemble (Features + BERT)	~94%	Very High	High	Excellent
+
+
 🚀 Getting Started
 Clone this repository:
 git clone https://github.com/your-username/ai-text-detector.git
@@ -49,6 +53,8 @@ pip install -r requirements.txt
 Run the notebooks:
 Open Generative_transforms.ipynb for transformer-based classification
 Open Meghana_and_Mounika_llm_detect_ai_generated_text.ipynb for feature-based ML classification
+
+
 🧪 Libraries Used
 Hugging Face Transformers
 Scikit-learn
@@ -56,6 +62,8 @@ Pandas, NumPy, Seaborn, Matplotlib
 NLTK, spaCy, textstat
 PyTorch
 LightGBM & XGBoost
+
+
 📬 Authors
 Meghana Naidu Thokala – VIT-AP University
 Mounika Garnedi – VIT-AP University
