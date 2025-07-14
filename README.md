@@ -13,7 +13,7 @@ LLM + Linguistic Feature-Based ML (Meghana_and_Mounika_llm_detect_ai_generated_t
 Using models like BERt and linguistic cues such as punctuation usage, POS diversity, readability scores, and syntactic complexity along with traditional ML models like Logistic Regression, XGBoost, and Random Forest.
 
 📄 Reference
-This project is inspired by the paper:
+This project is inspired by the paper: https://aclanthology.org/2024.icon-1.21/
 
 Yadagiri et al., ICON 2024 — Detecting AI-Generated Text with Pre-Trained Models Using Linguistic Features
 
